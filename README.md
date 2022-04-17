@@ -1,5 +1,8 @@
-# Code Refactor Starter Code
--Joshua Biske
 
-Refracting code to be more profesional and cleaner
+Description
+Refracting code to be more profesional and cleaner. Optimized Code
 
+
+
+
+Joshua Biske
